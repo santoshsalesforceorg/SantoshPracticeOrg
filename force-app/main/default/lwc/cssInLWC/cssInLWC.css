@@ -1,0 +1,14 @@
+p{
+    color:green;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid red;
+}
+.user{
+    color:indigo;
+    font-size: 20px;
+}
+.user:hover{
+    font-size: 50px;
+    color:brown;
+}
